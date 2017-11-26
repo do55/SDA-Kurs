@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mchange:c3p0:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mchange/c3p0/unknown/c3p0-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mchange/c3p0/unknown/c3p0-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mchange/c3p0/unknown/c3p0-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
